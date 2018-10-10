@@ -51,7 +51,7 @@
    - **Market:** Health and fitness is really popular now. Anyone that is trying to live a healthier lifestyle or lose some weight can enjoy this app. Ability to follow and share users' diets will motivate and build a greater fitness community. 
    - **Habit:** Users can post and share their daily goals, recipes, results or personal tips online.
    - **Scope:** Starts off with as a personal fitness tracker but can build up to become an online fitness community where users can collaborate.
-2. Mover (Moo-bear)
+2. Mover (Moo-behrr)
    - **Description**: The only app you will need for anything transportation! Mover works in a way so that the user does not need to worry about 'how' or 'if' they will get to their destination, Mover makes transportation seamless. Unique features gives the user more ways to trip carefree! Peer-to-peer mechanic help, is a feature that drivers can use to get local, on-demand, mechanical help. 
    - **Category:** Transportation 
    - **Mobile:** In order to make transportation seamless, the user should be able to do what they need with a simple tap of a button, so mobile is not only essential, but is the preferred platform.
