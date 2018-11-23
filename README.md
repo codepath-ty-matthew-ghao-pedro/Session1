@@ -2,6 +2,9 @@
 ![](healthyUWireframe.gif)
 
 
+<img width="742" alt="screen shot 2018-11-23 at 1 45 18 pm" src="https://user-images.githubusercontent.com/42871121/48957626-c3a60300-ef27-11e8-8e4e-b680da1ab0af.png">
+
+
 
 
 ## 1. User Stories (Required and Optional)
